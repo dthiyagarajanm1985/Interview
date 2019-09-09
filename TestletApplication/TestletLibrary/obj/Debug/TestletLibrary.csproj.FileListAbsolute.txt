@@ -1,0 +1,6 @@
+C:\Users\Thiyagarajan\Documents\Visual Studio 2013\Projects\TestletApplication\TestletLibrary\bin\Debug\TestletLibrary.dll
+C:\Users\Thiyagarajan\Documents\Visual Studio 2013\Projects\TestletApplication\TestletLibrary\bin\Debug\TestletLibrary.pdb
+C:\Users\Thiyagarajan\Documents\Visual Studio 2013\Projects\TestletApplication\TestletLibrary\obj\Debug\TestletLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Thiyagarajan\Documents\Visual Studio 2013\Projects\TestletApplication\TestletLibrary\obj\Debug\TestletLibrary.dll
+C:\Users\Thiyagarajan\Documents\Visual Studio 2013\Projects\TestletApplication\TestletLibrary\obj\Debug\TestletLibrary.pdb
+C:\Users\Thiyagarajan\Documents\Visual Studio 2013\Projects\TestletApplication\TestletLibrary\bin\Debug\TestletItems.xml
